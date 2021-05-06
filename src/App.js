@@ -4,7 +4,6 @@ import {PrivateRoute} from "./routes";
 import { Login, Signup,ForgotPassword } from "./components/auth";
 import { Dashboard } from "./components/dashboard";
 import "./authForm.css";
-
 export default () => {
   return (
     <Router>
