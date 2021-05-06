@@ -6,6 +6,7 @@ import { Dashboard } from "./components/dashboard";
 import "./authForm.css";
 export default () => {
   return (
+    console.log("running");
     <Router>
       <Account className="App">
         <Switch>
