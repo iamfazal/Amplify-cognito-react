@@ -102,7 +102,7 @@ export default function ForgotPassword(props) {
                 <div className="container">
                   <div className="row">
                     <div className="col-md-9 col-lg-8 mx-auto">
-                      <h3 className="login-heading mb-4">Forgot Password</h3>
+                      <h3 className="login-heading mb-4">Forgot Password?</h3>
                       <form onSubmit={sendCode}>
                         <div className="form-label-group">
                           <input
